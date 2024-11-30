@@ -150,13 +150,13 @@ function Campañas() {
                                 <td className="px-6 py-4">{cate.descripcion.slice(0, 50)}...</td>
                                 <td className="px-6 py-4">{cate.beneficios}</td>
                                 <td className="px-6 py-4">
-                                    <img src={cate.imagenUno} alt="" className="w-30 h-30 rounded-full" />
+                                    <img src={cate.imagenUno} alt="" className="w-12 h-12 rounded-full" />
                                 </td>
                                 <td className="px-6 py-4">
-                                    <img src={cate.imagenDos} alt="" className="w-30 h-30 rounded-full" />
+                                    <img src={cate.imagenDos} alt="" className="w-12 h-12 rounded-full" />
                                 </td>
                                 <td className="px-6 py-4">
-                                    <img src={cate.icono} alt="" className="w-30 h-30 rounded-full" />
+                                    <img src={cate.icono} alt="" className="w-12 h-12 rounded-full" />
                                 </td>
                                 <td className="px-6 py-4">
                                     <a href={cate.link} target="_blank" rel="noopener noreferrer">Link</a>

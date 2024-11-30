@@ -39,7 +39,7 @@ function Adminstrador() {
                                     ></path>
                                 </svg>
                             </button>
-                            <Link to="/obtener" className="flex ml-2 md:mr-24">
+                            <Link to="/" className="flex ml-2 md:mr-24">
                                 <img
                                     src={artista}
                                     className="h-8 mr-3 rounded-full"
